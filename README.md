@@ -1,2 +1,2 @@
 # sfapi-selenium
-Custom modification of Selenium Flex API example project, made to work with custom sfapi, forked from htps://code.google.com/p/sfapi/ 
+Custom sfapi example project, made to work with custom Selenium Flex API, forked from htps://code.google.com/p/sfapi/ 
